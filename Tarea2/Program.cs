@@ -212,4 +212,4 @@ do
             break;
     }
 } while (opp !=5);
-Console.WriteLine("Chao");
+Console.WriteLine("Adiós");
